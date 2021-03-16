@@ -10,7 +10,6 @@ def bfs():
         y,x = map(int,input().split())
         Cabbage[x][y] = 1
     
-    print(Cabbage)
     graph = [[0]*m for _ in range(n)]
 
     dx = [-1,1,0,0]
@@ -27,28 +26,26 @@ def bfs():
             while queue:
                 (x,y) = queue.popleft()
                 for k in range(4):
-                    x = x + dx[k]
-                    y = y + dy[k]
-                    if 0 <= x < n and 0 <= y < m:
-                        if Cabbage[x][y] == 1 and graph[x][y] == 0:
-                            graph[x][y] = 1
-                            queue.append((x,y))
+                    nx = x + dx[k]
+                    ny = y + dy[k]
+                    if 0 <= nx < n and 0 <= ny < m:
+                        if Cabbage[nx][ny] == 1 and graph[nx][ny] == 0:
+                            graph[nx][ny] = 1
+                            queue.append((nx,ny))
     
-    print(graph)
-    print(count)
+    return count
       
-
-
-
-
-                
-
-
-            
-
-
 if __name__ == '__main__':
     t = int(input())
     for _ in range(t):
         print(bfs())
+
+# 문제 : 1012 유기농 배추
+# 분류 : DFS/BFS 
+
+# Note 
+# - 입력이 (m,n,k) 순인데, 이걸, (열,행,정보수) 순서 인걸 조심하자. (행,열,정보순)이라서, 삽질 좀 했다..
+# - (0,0) ~ (n,m)까지 순회하면서 매 차례, 배추밭이고, 아직 방문안했으면, 큐에 넣고, 큐 작업 수행(bfs)
+
+# 링크 : https://www.acmicpc.net/problem/1012
     
