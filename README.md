@@ -14,7 +14,7 @@
 
 | 문제번호 | 문제이름 | 난이도 | 진행상황 | 링크 |
 | :---: | :---: | :---: | :---: | :---: |
-| 15828 | Router | ★☆☆☆☆ | P | [문제](https://www.acmicpc.net/problem/15828) |
+| 15828 | Router | ★☆☆☆☆ | P | [문제](https://www.acmicpc.net/problem/15828) / [소스코드](https://kdt-gitlab.elice.io/WI/algorithm-codingtest/-/blob/master/Baekjoon/15828.py) |
 
 
 <h3>Programmers</h3>
