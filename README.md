@@ -20,9 +20,9 @@
 
 <h3>Programmers</h3>
 
-| Level | 문제이름 | 난이도 | 소스코드 |
-| :---: | :---: | :---: | :---: |
-| "" | "" | "" | "" |
+| 분류 | 문제이름 | 난이도 | 진행상황 |링크 |
+| :---: | :---: | :---: | :---: | :---: |
+| 완전탐색 | 모의고사 | Level 1 | P | [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py) |
 
 <h3>This is CodingTest !!</h3>
 
