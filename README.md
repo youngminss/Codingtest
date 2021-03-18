@@ -17,6 +17,7 @@
 | 15828 | Router | ★☆☆☆☆ | P | [문제](https://www.acmicpc.net/problem/15828) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/15828.py) |
 | 1012 | 유기농 배추 | ★★☆☆☆ | P | [문제](https://www.acmicpc.net/problem/1012) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1012.py) |
 | 2667 | 단지번호붙이기 | ★★☆☆☆ | P | [문제](https://www.acmicpc.net/problem/2667) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2667.py) |
+| 1389 | 케빈 베이컨의 6단계 법칙 | ★★★☆☆ | P | [문제](https://www.acmicpc.net/problem/1389) / [소스코드](https://github.com/youngminss/codingtest/commit/775bfd1c57fcfd2b9a874cd0860b0b3116fc3925) | 
 
 <h3>Programmers</h3>
 
