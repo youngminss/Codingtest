@@ -5,7 +5,7 @@
 
  + Baekjoon</h1>
  + Programmers
- + This is CodingTest !!
+ 
 
 
 ### 💻 Current Situation
@@ -28,10 +28,5 @@
 | 완전탐색 | 소수찾기 | Level 2 | P | [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) |
 
 
-<h3>This is CodingTest !!</h3>
-
-| 문제이름 | 난이도 | 비고 | 소스코드 |
-| :---: | :---: | :---: | :---: |
-| "" | "" | "" | "" |
 
 # 📢 비고
