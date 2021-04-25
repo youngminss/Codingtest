@@ -39,3 +39,5 @@
 |  문자열  | 3살 엘리스 토끼  | Level 3 |    P     |   [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/3%EC%82%B4%20%EC%97%98%EB%A6%AC%EC%8A%A4%20%ED%86%A0%EB%81%BC.py)    |
 
 # 📢 비고
+
++ elice-algorithm 문제는 학습용으로 출처를 밝힙니다. 무단 사용을 금지합니다.
