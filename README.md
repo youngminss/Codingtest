@@ -37,3 +37,5 @@
 |   BFS    | 사과-에틸렌-숙성 | Level 7 |    P     | [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EC%82%AC%EA%B3%BC-%EC%97%90%ED%8B%B8%EB%A0%8C-%EC%88%99%EC%84%B1.py)  |
 
 # 📢 비고
+
++ elice-algorithm 문제는 학습용으로 출처를 밝힙니다. 무단 사용을 금지합니다.
