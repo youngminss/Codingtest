@@ -43,7 +43,6 @@ def solution(w,h,p,q,t):
                 q = q + dq[d] 
     return [p,q]
 
-
 if __name__ == "__main__":
     w,h = map(int,input().split())
     p,q = map(int,input().split())
@@ -51,19 +50,6 @@ if __name__ == "__main__":
     result = solution(w,h,p,q,t)
     print(result[0],result[1])
 
-
-def solution(w,h,p,q,t):
-    mp = p + t
-    mq = q + t
-    return [mp % w, mq % h]
-
-
-if __name__ == '__main__':
-    w,h = map(int,input().split())
-    p,q = map(int,input().split())
-    t = int(input())
-    result = solution(w,h,p,q,t)
-    print(result[0],result[1])
 
 # [구현] 초전도 당구
 # https://kdt.elice.io/courses/7447/lectures/81388/materials/116
