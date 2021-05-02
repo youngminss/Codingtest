@@ -42,8 +42,9 @@
 |  문자열  |      숫자 맟추기 퀴즈       | Level 3 |    P     |                         [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EC%88%AB%EC%9E%90%20%EB%A7%9F%EC%B6%94%EA%B8%B0%20%ED%80%B4%EC%A6%88.py)                         |
 |   구현   |        타자 연습하기        | Level 4 |    P     |                               [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%ED%83%80%EC%9E%90%20%EC%97%B0%EC%8A%B5%ED%95%98%EA%B8%B0.py)                               |
 |   구현   | 내 비밀번호는 비밀이 아니야 | Level 4 |    P     | [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EB%82%B4%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%EB%8A%94%20%EB%B9%84%EB%B0%80%EC%9D%B4%20%EC%95%84%EB%8B%88%EC%95%BC.py) |
-|   구현   | 공약수 | Level 4 |    P     | [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EA%B3%B5%EC%95%BD%EC%88%98.py) |
-|   구현   | 추억 여행 | Level 5 |    NP(80)     | [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EC%B6%94%EC%96%B5%20%EC%97%AC%ED%96%89.py) |
+|   구현   |           공약수            | Level 4 |    P     |                                              [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EA%B3%B5%EC%95%BD%EC%88%98.py)                                              |
+|   구현   |          추억 여행          | Level 5 |  NP(80)  |                                        [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EC%B6%94%EC%96%B5%20%EC%97%AC%ED%96%89.py)                                        |
+|   구현   |     남들과 달라야 한다      | Level 5 |    P     |                    [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EB%82%A8%EB%93%A4%EA%B3%BC%20%EB%8B%AC%EB%9D%BC%EC%95%BC%20%ED%95%9C%EB%8B%A4.py)                     |
 
 # 📢 비고
 
