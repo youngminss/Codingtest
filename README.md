@@ -46,7 +46,7 @@
 |   구현   |          추억 여행          | Level 5 | NP(80) -> P |                                        [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EC%B6%94%EC%96%B5%20%EC%97%AC%ED%96%89.py)                                        |
 |   구현   |     남들과 달라야 한다      | Level 5 |      P      |                    [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EB%82%A8%EB%93%A4%EA%B3%BC%20%EB%8B%AC%EB%9D%BC%EC%95%BC%20%ED%95%9C%EB%8B%A4.py)                     |
 |   구현   |          행성조사           | Level 6 |      P      |                                        [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%ED%96%89%EC%84%B1%20%EC%A1%B0%EC%82%AC.py)                                        |
-| 백트래킹 |       오래된 게임 ID        | Level 6 |   NP(80)    |                                  [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EC%98%A4%EB%9E%98%EB%90%9C%20%EA%B2%8C%EC%9E%84ID.py)                                   |
+| 백트래킹 |       오래된 게임 ID        | Level 6 | NP(80) -> P |                                  [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EC%98%A4%EB%9E%98%EB%90%9C%20%EA%B2%8C%EC%9E%84ID.py)                                   |
 
 # 📢 비고
 
