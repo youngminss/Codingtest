@@ -1,4 +1,4 @@
-from itertools import permutations
+from itertools import combinations
 
 # 오름차순 단어인지
 def checkSequence(words,l):
@@ -34,7 +34,7 @@ def consonantVowel(words):
 
 def solution(l,c,cules):
     result = []
-    datas = list(permutations(cules,l))
+    datas = list(combinations(cules,l))
     
     for data in datas:
         words = ''.join(data)
@@ -51,6 +51,15 @@ if __name__ == '__main__':
 
 
 # [백트래킹] 오래된 게임 ID
+# [1차 풀이] permutations(순열) 사용 = 80점 (TimeOver)
+# [원인] 
+# - 처음에, 오름차순으로 정렬을 했음에도 불구하고 불필요한, 순서를 고려한 경우의 케이스도 검사를 하다보니, 시간초과 발생한 것으로 확인
+# - 예를 들어, [1,2,3] 과 [1,3,2]를 다르게 보는 것 
+# - 조합(combinations)일 시에는 ? = 앞에서, [1,2,3]을 만들어냈으면, [1,3,2]는 [1,2,3]과 같다고보고, 생성하지 않는다.
+# [2차 풀이] combinations(조합) 사용 = 100점
+# - 느낀점 : 일단 놀람
+# - 해결이 된 이유
+# : combinations(조합)은 위에 말한 대로, 순서를 고려해서 생긴 불필요한 문자열에 대해서는 파악을 안하게 됨
 
 # 혁진이는 어렸을 적에 즐기던 게임인 “물풍선 아케이드”가 생각나서 로그인해 보려고 합니다.
 # 하지만 혁진이는 ID는 기억이 나는데 비밀번호가 기억이 나지 않았습니다.
