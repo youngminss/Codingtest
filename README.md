@@ -21,12 +21,15 @@
 
 <h3>Programmers</h3>
 
-|   분류   |      문제이름      | 난이도  |     진행상황     |                                                                                                               링크                                                                                                                |
-| :------: | :----------------: | :-----: | :--------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 완전탐색 |      모의고사      | Level 1 |        P         |                      [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)                      |
-| 완전탐색 |      소수찾기      | Level 2 |        P         |                    [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)                     |
-|   해시   | 완주하지 못한 선수 | Level 1 |        P         | [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py) |
-|   해시   |   전화번호 목록    | Level 2 | F(시간초과) -> P |           [문제](https://programmers.co.kr/learn/courses/30/lessons/42577) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)            |
+|     분류     |      문제이름      | 난이도  |     진행상황     |                                                                                                               링크                                                                                                                |
+| :----------: | :----------------: | :-----: | :--------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   완전탐색   |      모의고사      | Level 1 |        P         |                      [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)                      |
+|   완전탐색   |      소수찾기      | Level 2 |        P         |                    [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)                     |
+|     해시     | 완주하지 못한 선수 | Level 1 |        P         | [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py) |
+|     해시     |   전화번호 목록    | Level 2 | F(시간초과) -> P |           [문제](https://programmers.co.kr/learn/courses/30/lessons/42577) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)            |
+| 이진트리순회 |    길 찾기 게임    | Level 3 |        p         |              [문제](https://programmers.co.kr/learn/courses/30/lessons/42892) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EA%B8%B8%20%EC%B0%BE%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py)               |
+| 레벨체크 1_2 |     이름 모름      | Level 1 |        p         |                                                                     [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/level1_2.py)                                                                      |
+| 레벨체크 2_2 |      주식가격      | Level 2 |        p         |                                                                     [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/level2_2.py)                                                                      |
 
 <h3>elice-alorithm</h3>
 
