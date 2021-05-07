@@ -87,6 +87,7 @@ if __name__ == '__main__':
 # [Note]
 # - 이 문제에서, 로직이 맞아도, 6,7번 케이스가 "런타임에러"발생하면, 이는 파이썬 recursion limit = 1000으로 기본설정되어 있다함.
 # - 그래서 아래 두줄을 추가해주면, 정답처리가 된다.
+# https://programmers.co.kr/questions/3723 (참고)
 # import sys
 # sys.setrecursionlimit(10**6) # 1,000,000 번 재귀가능 설정
 # - C에서 구조체를 통해, 트리를 만들었던 것처럼, python에서는 class를 이용해서, 구현가능한 것을 해봄
