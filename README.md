@@ -33,6 +33,7 @@
 |      문자열      |      끝말잇기      | Level 2 |        p         |           [문제](https://programmers.co.kr/learn/courses/30/lessons/12981) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py)            |
 |       구현       |      스킬트리      | Level 3 |        p         |                      [문제](https://programmers.co.kr/learn/courses/30/lessons/49993) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.py)                      |
 | 그래프(최단경로) |        배달        | Level 2 |        p         |                               [문제](https://programmers.co.kr/learn/courses/30/lessons/12978) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%B0%B0%EB%8B%AC.py)                               |
+|   그리디/구현    |        예산        | Level 1 |        p         |                               [문제](https://programmers.co.kr/learn/courses/30/lessons/12982) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%98%88%EC%82%B0.py)                               |
 
 <h3>elice-alorithm</h3>
 
