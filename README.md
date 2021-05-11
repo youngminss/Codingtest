@@ -35,6 +35,8 @@
 | 그래프(최단경로) |        배달        | Level 2 |        p         |                               [문제](https://programmers.co.kr/learn/courses/30/lessons/12978) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%B0%B0%EB%8B%AC.py)                               |
 |   그리디/구현    |        예산        | Level 1 |        p         |                               [문제](https://programmers.co.kr/learn/courses/30/lessons/12982) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%98%88%EC%82%B0.py)                               |
 |    수학/구현     |    소수 만들기     | Level 1 |        p         |                [문제](https://programmers.co.kr/learn/courses/30/lessons/12977) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)                |
+|       구현       |   키패드 누르기    | Level 1 |        p         |            [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.py            |
+|        )         |
 
 <h3>elice-alorithm</h3>
 
