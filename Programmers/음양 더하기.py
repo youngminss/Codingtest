@@ -11,7 +11,7 @@ def solution(absolutes, signs):
 
 
 if __name__ == '__main__':
-    result = solution([4,7,12],[true,false,true])
+    result = solution([4,7,12],[True,False,True])
     print(result)
 
 # [4,7,12],[true,false,true]
