@@ -39,6 +39,7 @@
 |       구현       |       괄호 회전하기        | Level 2 |        p         |                                [문제](https://programmers.co.kr/learn/courses/30/lessons/76502) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)                                 |
 |       구현       |        음양 더하기         | Level 1 |        p         |                                     [문제](https://programmers.co.kr/learn/courses/30/lessons/76501) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.py)                                     |
 |       구현       | 로또의 최고순위와 최저순위 | Level 1 |        p         | [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.py) |
+|       구현       |    행렬 테두리 회전하기    | Level 2 |        p         |                 [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)                  |
 
 <h3>elice-alorithm</h3>
 
