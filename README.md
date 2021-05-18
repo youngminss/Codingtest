@@ -43,7 +43,7 @@
 |       구현       |    두 개 뽑아서 더하기     | Level 1 |        p         |                    [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.py)                     |
 |       구현       |        삼각 달팽이         | Level 2 |        p         |                                     [문제](https://programmers.co.kr/learn/courses/30/lessons/68645) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.py)                                     |
 
-<h3>elice-alorithm</h3>
+<h3>elice-algorithm</h3>
 
 |   분류   |          문제이름           | 난이도  |  진행상황   |                                                                                                   링크                                                                                                    |
 | :------: | :-------------------------: | :-----: | :---------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
