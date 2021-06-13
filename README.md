@@ -42,6 +42,7 @@
 |       구현       |    행렬 테두리 회전하기    | Level 2 |        p         |                 [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)                  |
 |       구현       |    두 개 뽑아서 더하기     | Level 1 |        p         |                    [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.py)                     |
 |       구현       |        삼각 달팽이         | Level 2 |        p         |                                     [문제](https://programmers.co.kr/learn/courses/30/lessons/68645) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.py)                                     |
+|       스택       |    크레인 인형뽑기 게임    | Level 2 |        p         |                 [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py)                  |
 
 <h3>elice-algorithm</h3>
 
