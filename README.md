@@ -45,6 +45,7 @@
 |       스택       |    크레인 인형뽑기 게임    | Level 2 |        p         |                 [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py)                  |
 |       구현       |         오픈채팅방         | Level 2 |        p         |                                      [문제](https://programmers.co.kr/learn/courses/30/lessons/42888) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py)                                       |
 |     스택/큐      |          기능개발          | Level 2 |        p         |                                  [문제](https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)                                   |
+|     스택/큐      |           프린터           | Level 2 |        p         |                                       [문제](https://programmers.co.kr/learn/courses/30/lessons/42587?language=python3) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%94%84%EB%A6%B0%ED%84%B0.py)                                       |
 
 <h3>elice-algorithm</h3>
 
