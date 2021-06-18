@@ -50,3 +50,41 @@ if __name__ == '__main__' :
 # - userId 에 경우, 형식이 "uid~~~" 이라고, 뽑아낼때, userId[3:] 방식으로 "~~~" 부분만 뽑아내면 오답처리가 되었다.
 # - 그냥, userId 그대로인, "uid~~~" 형태 그대로 뽑아내야 함
 # - 이유는, 제한사항 조건에, 유저 아이디 길이가 1<= userId <= 10 이라는게, "uid" 포함인 것 같다.
+
+
+
+# from collections import deque
+
+# def solution(record):
+#     answer = deque()
+#     user = {}
+#     change = {}
+
+#     for i in range(len(record)-1, -1, -1) :
+#         state = record[i].split()[0]
+#         if state == 'Enter' :
+#             id, name = record[i].split()[1], record[i].split()[2]
+#             if id in change :
+#                 answer.appendleft(change[id]+'님이 ' + '들어왔습니다.')
+#             else :
+#                 if id in user :
+#                     answer.appendleft(user[id]+'님이 ' + '들어왔습니다.')
+#                 else :
+#                     user[id] = name
+#                     answer.appendleft(name+'님이 ' + '들어왔습니다.')
+#         elif state == 'Leave' :
+#             id = record[i].split()[1]
+#             if id in user :
+#                 answer.appendleft(user[id]+'님이 ' + '나갔습니다.')
+#             else :
+#                 for j in range(i-1, -1, -1):
+#                     if (record[j].split()[0] == 'Enter' or record[j].split()[0] == 'Change') and id == record[j].split()[1] :
+#                         user[id] = name
+#                         answer.appendleft(name+'님이 ' + '나갔습니다.')
+#                         break
+#         else :
+#             id, name = record[i].split()[1], record[i].split()[2]
+#             if id in change :
+#                 pass
+#             else :
+#                 change[id] = name
