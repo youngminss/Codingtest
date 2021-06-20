@@ -51,6 +51,8 @@
 |       정렬       |         가장 큰 수         | Level 2 |        p         |                                 [문제](https://programmers.co.kr/learn/courses/30/lessons/42746?language=python3) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EA%B0%80%EC%9E%A5%20%ED%81%B0%EC%88%98.py)                                 |
 |       정렬       |         K 번째 수          | Level 2 |        p         |                                      [문제](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.py)                                       |
 |        힙        |          더 맵게           | Level 2 |        p         |                                              [문제](https://programmers.co.kr/learn/courses/30/lessons/42626) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py)                                              |
+|        힙        |      디스크 컨트롤러       | Level 2 |        p         |                            [문제](https://programmers.co.kr/learn/courses/30/lessons/42627) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.py)                            |
+|        힙        |          더 맵게           | Level 2 |        p         |                             [문제](https://programmers.co.kr/learn/courses/30/lessons/42628) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py)                              |
 
 <h3>elice-algorithm</h3>
 
