@@ -1,23 +1,19 @@
 def solution(answers):
-    answer = []
-    students = [0,0,0]
-    pattern_1 = [1,2,3,4,5] # 5
-    pattern_2 = [2,1,2,3,2,4,2,5]   # 8
-    pattern_3 = [3,3,1,1,2,2,4,4,5,5]   # 10
+    person = [0,0,0]
+    person1 = [1,2,3,4,5] # 5
+    person2 = [2,1,2,3,2,4,2,5] # 8
+    person3 = [3,3,1,1,2,2,4,4,5,5] # 10
     
-    for i in range(len(answers)):
-        if pattern_1[i%5] == answers[i]:
-            students[0] += 1
-        if pattern_2[i%8] == answers[i]:
-            students[1] += 1
-        if pattern_3[i%10] == answers[i]:
-            students[2] += 1
+    for i in range(len(answers)) :
+        if answers[i] == person1[i%5] :
+            person[0] += 1
+        if answers[i] == person2[i%8] :
+            person[1] += 1
+        if answers[i] == person3[i%10] :
+            person[2] += 1
     
-    max_answer = max(students)
-    
-    for i in range(len(students)):
-        if students[i] == max_answer:
-            answer.append(i+1)
+    max_person_score = max(person)
+    answer = [(i+1) for i in range(len(person)) if person[i] == max_person_score ]
     
     return answer
 
