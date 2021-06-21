@@ -1,42 +1,33 @@
 from itertools import permutations
-
-def chase():
-    n= 999999
-    a = [False,False] + [True]*(n-1)
-    primes=[]
-
-    for i in range(2,n+1):
-        if a[i]:
-            primes.append(i)
+from itertools import permutations
+def get_chase() :
+    prime = []
+    n = 999999
+    a = [False,False] + [True] * n
+    
+    for i in range(2,n+1) :
+        if a[i] :
+            prime.append([i,True])
             for j in range(2*i, n+1, i):
                 a[j] = False
-    return primes
-
+    return prime
+    
 def solution(numbers):
+    answer = 0
+    chase = get_chase()
+    chase = dict(chase)
+    numbers = [number for number in numbers]
     
-    primes = chase()    # 에라토테네스의 채
-    str_len = len(numbers)
-    numbers = list(numbers)
+    for i in range(len(numbers)) :
+        p_numbers = list(permutations(numbers,i+1))
+        p_numbers = [ int(''.join(p_number))  for p_number in p_numbers]
+        
+        for p_number in p_numbers :
+            if (p_number in chase) and chase[p_number] == True :
+                chase[p_number] = False
+                answer += 1
     
-    Int_Numbers = []
-    for i in range(1,str_len+1):    # 순열 다 구함
-        Int_Numbers += list(permutations(numbers,i))
-
-    for i in range(len(temp)):      # 구한 각 자리수 리스트 -> 문자열리스트로 변환 -> 정수 리스트로 변환
-        Int_Numbers[i] = int(''.join(Int_Numbers[i]))
-
-    Int_Numbers = list(set(Int_Numbers))    # 중복 정수 제거하기 위해 집합자료형 -> 다시 리스트 자료형
-
-    count = 0
-    for number in Int_Numbers:
-        if number in primes:
-            count += 1
-    
-    return count
-
-if __name__ == "__main__":
-    number = input()
-    print(solution(number))
+    return answer
 
 # 문제 : 소수찾기
 # 분류 : 완전탐색(?)
