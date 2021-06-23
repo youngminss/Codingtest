@@ -18,6 +18,15 @@
 |   1389   | 케빈 베이컨의 6단계 법칙 | ★★★☆☆  |    P     | [문제](https://www.acmicpc.net/problem/1389) / [소스코드](https://github.com/youngminss/codingtest/commit/775bfd1c57fcfd2b9a874cd0860b0b3116fc3925) |
 |   7576   |          토마토          | ★★★☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/7576) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/7576.py)           |
 |   5567   |          결혼식          | ★★☆☆☆  |    F     |          [문제](https://www.acmicpc.net/problem/5567) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/5567.py)           |
+|   4673   |        셀프 넘버         | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/4673) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/4673.py)           |
+|   5598   |      카이사르 암호       | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/5598) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/5598.py)           |
+|  10809   |       알파벳 찾기        | ★★☆☆☆  |    P     |         [문제](https://www.acmicpc.net/problem/10809) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/10809.py)          |
+|   1158   |      요세푸스 문제       | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/1158) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1158.py)           |
+|   9093   |       단어 뒤집기        | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/9093) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9093.py)           |
+|   9012   |           괄호           | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/9012) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9012.py)           |
+|   1966   |        프린터 큐         | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/1966) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1966.py)           |
+|  11279   |         최대 힙          | ★☆☆☆☆  |    P     |         [문제](https://www.acmicpc.net/problem/11279) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11279.py)          |
+|   2696   |      중압값 구하기       | ★★★☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/2696) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2696.py)           |
 
 <h3>Programmers</h3>
 
@@ -53,6 +62,7 @@
 |        힙        |          더 맵게           | Level 2 |        p         |                                              [문제](https://programmers.co.kr/learn/courses/30/lessons/42626) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py)                                              |
 |        힙        |      디스크 컨트롤러       | Level 2 |        p         |                            [문제](https://programmers.co.kr/learn/courses/30/lessons/42627) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.py)                            |
 |        힙        |          더 맵게           | Level 2 |        p         |                             [문제](https://programmers.co.kr/learn/courses/30/lessons/42628) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py)                              |
+|      문자열      |      신규 아이디 추천      | Level 2 |        p         |                          [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.py)                           |
 
 <h3>elice-algorithm</h3>
 
