@@ -26,7 +26,7 @@
 |   9012 - 스택   |           괄호           | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/9012) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9012.py)           |
 |   1966 - 큐/덱   |        프린터 큐         | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/1966) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1966.py)           |
 |  11279 - 힙   |         최대 힙          | ★☆☆☆☆  |    P     |         [문제](https://www.acmicpc.net/problem/11279) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11279.py)          |
-|   2696 -    |      중압값 구하기       | ★★★☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/2696) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2696.py)           |
+|   2696 - 힙   |      중압값 구하기       | ★★★☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/2696) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2696.py)           |
 
 <h3>Programmers</h3>
 
