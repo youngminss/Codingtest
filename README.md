@@ -10,23 +10,23 @@
 
 <h3>Baekjoon</h3>
 
-| 문제번호 |         문제이름         | 난이도 | 진행상황 |                                                                        링크                                                                         |
+| 문제번호 - 테마 |         문제이름         | 난이도 | 진행상황 |                                                                        링크                                                                         |
 | :------: | :----------------------: | :----: | :------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  15828   |          Router          | ★☆☆☆☆  |    P     |         [문제](https://www.acmicpc.net/problem/15828) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/15828.py)          |
-|   1012   |       유기농 배추        | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/1012) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1012.py)           |
-|   2667   |      단지번호붙이기      | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/2667) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2667.py)           |
-|   1389   | 케빈 베이컨의 6단계 법칙 | ★★★☆☆  |    P     | [문제](https://www.acmicpc.net/problem/1389) / [소스코드](https://github.com/youngminss/codingtest/commit/775bfd1c57fcfd2b9a874cd0860b0b3116fc3925) |
-|   7576   |          토마토          | ★★★☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/7576) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/7576.py)           |
-|   5567   |          결혼식          | ★★☆☆☆  |    F     |          [문제](https://www.acmicpc.net/problem/5567) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/5567.py)           |
-|   4673   |        셀프 넘버         | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/4673) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/4673.py)           |
-|   5598   |      카이사르 암호       | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/5598) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/5598.py)           |
-|  10809   |       알파벳 찾기        | ★★☆☆☆  |    P     |         [문제](https://www.acmicpc.net/problem/10809) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/10809.py)          |
-|   1158   |      요세푸스 문제       | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/1158) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1158.py)           |
-|   9093   |       단어 뒤집기        | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/9093) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9093.py)           |
-|   9012   |           괄호           | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/9012) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9012.py)           |
-|   1966   |        프린터 큐         | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/1966) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1966.py)           |
-|  11279   |         최대 힙          | ★☆☆☆☆  |    P     |         [문제](https://www.acmicpc.net/problem/11279) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11279.py)          |
-|   2696   |      중압값 구하기       | ★★★☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/2696) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2696.py)           |
+|  15828 - 큐  |          Router          | ★☆☆☆☆  |    P     |         [문제](https://www.acmicpc.net/problem/15828) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/15828.py)          |
+|   1012 - DFS/BFS   |       유기농 배추        | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/1012) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1012.py)           |
+|   2667 - DFS/BFS  |      단지번호붙이기      | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/2667) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2667.py)           |
+|   1389 - MST  | 케빈 베이컨의 6단계 법칙 | ★★★☆☆  |    P     | [문제](https://www.acmicpc.net/problem/1389) / [소스코드](https://github.com/youngminss/codingtest/commit/775bfd1c57fcfd2b9a874cd0860b0b3116fc3925) |
+|   7576 - DFS/BFS  |          토마토          | ★★★☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/7576) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/7576.py)           |
+|   5567 - DFS/BFS   |          결혼식          | ★★☆☆☆  |    F     |          [문제](https://www.acmicpc.net/problem/5567) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/5567.py)           |
+|   4673 - 구현   |        셀프 넘버         | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/4673) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/4673.py)           |
+|   5598 - 구현  |      카이사르 암호       | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/5598) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/5598.py)           |
+|  10809 - 구현   |       알파벳 찾기        | ★★☆☆☆  |    P     |         [문제](https://www.acmicpc.net/problem/10809) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/10809.py)          |
+|   1158 - 구현   |      요세푸스 문제       | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/1158) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1158.py)           |
+|   9093 - 문자열   |       단어 뒤집기        | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/9093) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9093.py)           |
+|   9012 - 스택   |           괄호           | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/9012) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9012.py)           |
+|   1966 - 큐/덱   |        프린터 큐         | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/1966) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1966.py)           |
+|  11279 - 힙   |         최대 힙          | ★☆☆☆☆  |    P     |         [문제](https://www.acmicpc.net/problem/11279) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11279.py)          |
+|   2696 -    |      중압값 구하기       | ★★★☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/2696) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2696.py)           |
 
 <h3>Programmers</h3>
 
