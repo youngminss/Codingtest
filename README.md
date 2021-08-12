@@ -68,6 +68,8 @@
 |      문자열      |      신규 아이디 추천      | Level 2 |        p         |                          [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.py)                           |
 |    DFS / BFS     |          네트워크          | Level 3 |        p         |                                           [문제](https://programmers.co.kr/learn/courses/30/lessons/43162) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)                                           |
 |       DFS        |          타겟넘버          | Level 2 |        p         |                                         [문제](https://programmers.co.kr/learn/courses/30/lessons/43165) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py)                                          |
+|       구현       |           폰켓몬           | Level 1 |        p         |                                                [문제](https://programmers.co.kr/learn/courses/30/lessons/1845) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%8F%B0%EC%BC%93%EB%AA%AC.js)                                                |
+|       스택       |      짝지어 제거하기       | Level 2 |        p         |                             [문제](https://programmers.co.kr/learn/courses/30/lessons/12973) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%A7%9D%EC%A7%80%EC%96%B4_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js)                             |
 
 <h3>elice-algorithm</h3>
 
