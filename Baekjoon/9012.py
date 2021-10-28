@@ -1,25 +1,23 @@
-def checkVPS(data) :
-    isPossible = 0
-    for i in range(len(data)) :
-        if data[i] == '(' :
-            isPossible += 1
-        else :
-            if isPossible > 0 :
-                isPossible -= 1
-            else :
-                return "NO"
-    
-    return "NO" if isPossible > 0 else "YES"
-            
-def solution(test_data) :
-    for data in test_data :
-        result = checkVPS(data)
-        print(result)
+
+def check_VPS() :
+    parenthesis_string = input()
+    stack = []
+
+    for i in range(len(parenthesis_string)) :
+        if parenthesis_string[i] == '(' :
+            stack.append(parenthesis_string[i])
+        if parenthesis_string[i] == ')' :
+            if len(stack) != 0 :
+                stack.pop()
+            else : 
+                return 'NO'
+    if len(stack) != 0 :
+        return 'NO'
+    return 'YES'
 
 if __name__ == '__main__' :
-    T = int(input())
-    test_data = [input() for _ in range(T)]
-    solution(test_data)
+    num = int(input())
+    for _ in range(num) : print(check_VPS())
     
 # [문제] 괄호
 # [테마] 스택 / 구현
