@@ -1,16 +1,15 @@
-def solution(text) :
-    alpha_dict = dict([[chr(i),-1] for i in range(ord('a'),ord('z')+1) ])
+def findidx_alphas_first(input_alpha) :
+    alpha_dict = dict([[chr(asc), -1] for asc in range(ord('a'), ord('z') + 1)])
     
-    for i in range(len(text)) :
-        if alpha_dict[text[i]] == -1 :
-            alpha_dict[text[i]] = i
-
-    for index in alpha_dict.values() :
-        print(index, end=' ')
-
+    for i in range(len(input_alpha)) :
+        if alpha_dict[input_alpha[i]] == -1 :
+            alpha_dict[input_alpha[i]] = input_alpha.find(input_alpha[i])
+    
+    [print(first_alpha_idx, end=' ') for first_alpha_idx in alpha_dict.values()]
+    
 if __name__ == '__main__' :
-    text = input()
-    solution(text)
+    input_alpha = input()
+    findidx_alphas_first(input_alpha)
 
 # [문제] 알파벳 찾기
 # [테마] 구현
