@@ -15,3 +15,7 @@ def run_card_game(num) :
 if __name__ == '__main__' :
     num = int(sys.stdin.readline().rstrip('\n'))
     run_card_game(num)
+
+# 문제 : 카드
+# 테마 : 정렬
+# 출처 : https://www.acmicpc.net/problem/11652
