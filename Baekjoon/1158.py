@@ -21,7 +21,7 @@ if __name__ == '__main__' :
     n,k = map(int,input().split())
     solution(n,k)
 
-# [문제] 요세푸스 문제
+# [문제] 요세푸스 문제 (1158)
 # [테마] 구현
 # [출처] https://www.acmicpc.net/problem/1158
 
