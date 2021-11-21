@@ -127,6 +127,7 @@
 |       구현       |     핸드폰 번호 가리기      |          Level 1           |        p         |     [문제](https://programmers.co.kr/learn/courses/30/lessons/12948/solution_groups?language=python3) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.py)      |
 |   구현, 문자열   |         문자열 압축         | 2020 KAKAO BLIND - Level 2 |        p         |                                     [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.js)                                     |
 |   구현, 문자열   |          괄호 변환          | 2020 KAKAO BLIND - Level 2 |        p         |                                         [문제](https://programmers.co.kr/learn/courses/30/lessons/60058) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.js)                                          |
+|       구현       |           실패율            | 2019 KAKAO BLIND - Level 1 |        p         |                                               [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%8B%A4%ED%8C%A8%EC%9C%A8.js)                                                |
 
 <h3>elice-algorithm</h3>
 
