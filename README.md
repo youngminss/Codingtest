@@ -129,6 +129,7 @@
 |   구현, 문자열   |          괄호 변환          |  2020 KAKAO BLIND - Level 2  |        p         |                                         [문제](https://programmers.co.kr/learn/courses/30/lessons/60058) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.js)                                          |
 |       구현       |           실패율            |  2019 KAKAO BLIND - Level 1  |        p         |                                               [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%8B%A4%ED%8C%A8%EC%9C%A8.js)                                                |
 |   구현, 문자열   |         수식 최대화         | 2020 카카오 인턴십 - Level 2 |        p         |                                     [문제](https://programmers.co.kr/learn/courses/30/lessons/67257) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.js)                                     |
+|   구현, 문자열   |            튜플             | 2019 카카오 인턴십 - Level 2 |        p         |                                                    [문제](https://programmers.co.kr/learn/courses/30/lessons/64065) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%8A%9C%ED%94%8C.js)                                                    |
 
 <h3>elice-algorithm</h3>
 
