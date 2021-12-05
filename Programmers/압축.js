@@ -10,7 +10,6 @@ function initDict() {
 function solution(msg) {
   let result = [];
   let dict = initDict();
-  console.log(dict);
   let i = 0;
   let temp = "";
 
