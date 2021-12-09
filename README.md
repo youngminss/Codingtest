@@ -136,6 +136,7 @@
 |   구현, 문자열   |         파일명 정렬         | 2018 카카오 블라인드 - Level 2 |        p         |                                     [문제](https://programmers.co.kr/learn/courses/30/lessons/17686) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.js)                                     |
 |       구현       |            압축             | 2018 카카오 블라인드 - Level 2 |        p         |                                                    [문제](https://programmers.co.kr/learn/courses/30/lessons/17684) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%95%95%EC%B6%95.js)                                                    |
 |   구현, 문자열   |          방금그곡           | 2018 카카오 블라인드 - Level 2 |        p         |                                           [문제](https://programmers.co.kr/learn/courses/30/lessons/17683) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.js)                                           |
+|       구현       |       뉴스 클러스터링       | 2018 카카오 블라인드 - Level 2 |        p         |                            [문제](https://programmers.co.kr/learn/courses/30/lessons/17677) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.js)                            |
 
 <h3>elice-algorithm</h3>
 
