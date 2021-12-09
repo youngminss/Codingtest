@@ -6,9 +6,10 @@
 - Programmers
 - elice-algorithm
 
-### 💻 Current Situation
+### 💻 History Log
 
-<h3>Baekjoon</h3>
+<details>
+    <summary>Baekjoon</summary>
 
 |      문제번호 - 테마       |         문제이름         | 난이도 | 진행상황 |                                                                        링크                                                                         |
 | :------------------------: | :----------------------: | :----: | :------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -72,7 +73,9 @@
 |        9012 - 스택         |           괄호           | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/9012) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9012.py)           |
 |         9095 - DP          |      1,2,3, 더하기       | ★★☆☆☆  |    P     |          [문제](https://www.acmicpc.net/problem/9095) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9095.py)           |
 
-<h3>Programmers</h3>
+</details>
+<details>
+    <summary>Programmers</summary>
 
 |       분류       |          문제이름           |             난이도             |     진행상황     |                                                                                                                                    링크                                                                                                                                     |
 | :--------------: | :-------------------------: | :----------------------------: | :--------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -138,7 +141,9 @@
 |   구현, 문자열   |          방금그곡           | 2018 카카오 블라인드 - Level 2 |        p         |                                           [문제](https://programmers.co.kr/learn/courses/30/lessons/17683) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.js)                                           |
 |       구현       |       뉴스 클러스터링       | 2018 카카오 블라인드 - Level 2 |        p         |                            [문제](https://programmers.co.kr/learn/courses/30/lessons/17677) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.js)                            |
 
-<h3>elice-algorithm</h3>
+</details>
+<details>
+    <summary>elice-algorithm</summary>
 
 |   분류   |          문제이름           | 난이도  |  진행상황   |                                                                                                   링크                                                                                                    |
 | :------: | :-------------------------: | :-----: | :---------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -158,6 +163,10 @@
 |   구현   |          행성조사           | Level 6 |      P      |                                        [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%ED%96%89%EC%84%B1%20%EC%A1%B0%EC%82%AC.py)                                        |
 | 백트래킹 |       오래된 게임 ID        | Level 6 | NP(80) -> P |                                  [소스코드](https://github.com/youngminss/codingtest/blob/master/elice-algorithm/%EC%98%A4%EB%9E%98%EB%90%9C%20%EA%B2%8C%EC%9E%84ID.py)                                   |
 
-# 📢 비고
+</details>
+
+<br />
+
+### 📢 Remarks
 
 - elice-algorithm 문제는 학습용으로 출처를 밝힙니다. 무단 사용을 금지합니다.
