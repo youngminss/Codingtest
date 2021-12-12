@@ -142,6 +142,7 @@
 |       구현       |       뉴스 클러스터링       | 2018 카카오 블라인드 - Level 2 |        p         |                            [문제](https://programmers.co.kr/learn/courses/30/lessons/17677) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.js)                            |
 |       BFS        |      게임 맵 최단거리       |            Level 2             |        p         |                           [문제](https://programmers.co.kr/learn/courses/30/lessons/1844) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.js)                           |
 |       구현       |          모음 사전          |            Level 2             |        p         |                                           [문제](https://programmers.co.kr/learn/courses/30/lessons/84512) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.js)                                           |
+|   순열 or DFS    |           피로도            |            Level 2             |        p         |                                               [문제](https://programmers.co.kr/learn/courses/30/lessons/87946) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%94%BC%EB%A1%9C%EB%8F%84.js)                                                |
 
 </details>
 <details>
