@@ -144,6 +144,7 @@
 |       구현       |          모음 사전          |            Level 2             |        p         |                                           [문제](https://programmers.co.kr/learn/courses/30/lessons/84512) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.js)                                           |
 |   순열 or DFS    |           피로도            |            Level 2             |        p         |                                               [문제](https://programmers.co.kr/learn/courses/30/lessons/87946) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%ED%94%BC%EB%A1%9C%EB%8F%84.js)                                                |
 |   구현, 문자열   |    2개 이하의 다른 비트     |            Level 2             |        p         |                    [문제](https://programmers.co.kr/learn/courses/30/lessons/77885) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.js)                    |
+|   구현, 문자열   |     이진 변환 반복하기      |            Level 2             |        p         |                      [문제](https://programmers.co.kr/learn/courses/30/lessons/70129) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.js)                      |
 
 </details>
 <details>
