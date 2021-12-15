@@ -146,6 +146,7 @@
 |   구현, 문자열   |    2개 이하의 다른 비트     |            Level 2             |        p         |                    [문제](https://programmers.co.kr/learn/courses/30/lessons/77885) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.js)                    |
 |   구현, 문자열   |     이진 변환 반복하기      |            Level 2             |        p         |                      [문제](https://programmers.co.kr/learn/courses/30/lessons/70129) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.js)                      |
 |  재귀(분할정복)  |    쿼드압축 후 개수 세기    |            Level 2             |        p         |                [문제](https://programmers.co.kr/learn/courses/30/lessons/68936) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.js)                |
+|       구현       |          방문 길이          |            Level 2             |        p         |                                         [문제](https://programmers.co.kr/learn/courses/30/lessons/49994) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.js)                                          |
 
 </details>
 <details>
