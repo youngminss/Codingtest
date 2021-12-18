@@ -19,6 +19,7 @@ def print_calculated_resistance(colors) :
 
 if __name__ == '__main__' :
     colors = [stdin.readline().rstrip('\n') for _ in range(3)]
+<<<<<<< HEAD
     print_calculated_resistance(colors)
 
 # [Approach]
@@ -31,3 +32,6 @@ if __name__ == '__main__' :
 # 문제 : 저항
 # 테마 : 구현
 # 출처 : https://www.acmicpc.net/problem/1076
+=======
+    print_calculated_resistance(colors)
+>>>>>>> 6647390bf1b60d453465227f7eb1c0962ca83fa3

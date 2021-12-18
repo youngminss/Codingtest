@@ -36,5 +36,9 @@ if __name__ == '__main__' :
     number_card(cards, my_cards)
 
 # 문제 : 숫자 카드
+<<<<<<< HEAD
 # 테마 : 이분탐색
+=======
+# 테마 : 이진탐색
+>>>>>>> 6647390bf1b60d453465227f7eb1c0962ca83fa3
 # 출처 : https://www.acmicpc.net/problem/10815

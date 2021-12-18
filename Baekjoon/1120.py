@@ -16,7 +16,11 @@ def minimum_no_matched_substr_length(A, B) :
                 print(B.find(A[i: j + 1]), A[i: j + 1], len(A[i: j + 1]) )
                 max_matched_substr_length = max([max_matched_substr_length, len(A[i:j + 1])])
 
+<<<<<<< HEAD
     return (len(A) - max_matched_substr_length) + (len(B) - len(A))
+=======
+    return len(A) - max_matched_substr_length
+>>>>>>> 6647390bf1b60d453465227f7eb1c0962ca83fa3
 
 def calculate_minimun_subtraction(A, B) :
     if len(A) == len(B) :
