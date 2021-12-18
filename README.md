@@ -148,6 +148,7 @@
 |  재귀(분할정복)  |    쿼드압축 후 개수 세기    |            Level 2             |        p         |                [문제](https://programmers.co.kr/learn/courses/30/lessons/68936) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.js)                |
 |       구현       |          방문 길이          |            Level 2             |        p         |                                         [문제](https://programmers.co.kr/learn/courses/30/lessons/49994) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.js)                                          |
 |       재귀       |         예상 대진표         |            Level 2             |        p         |                                     [문제](https://programmers.co.kr/learn/courses/30/lessons/12985) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.js)                                     |
+|       수학       |      점프와 순간 이동       |            Level 2             |        p         |                          [문제](https://programmers.co.kr/learn/courses/30/lessons/12980) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.js)                           |
 
 </details>
 <details>
