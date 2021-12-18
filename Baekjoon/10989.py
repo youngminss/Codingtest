@@ -10,3 +10,4 @@ if __name__ == '__main__' :
     array = []
     for _ in range(num) : array.append(int(sys.stdin.readline().rstrip('\n')))
     sort_nums(array) 
+
