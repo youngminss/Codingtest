@@ -149,6 +149,7 @@
 |       구현       |          방문 길이          |            Level 2             |        p         |                                         [문제](https://programmers.co.kr/learn/courses/30/lessons/49994) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.js)                                          |
 |       재귀       |         예상 대진표         |            Level 2             |        p         |                                     [문제](https://programmers.co.kr/learn/courses/30/lessons/12985) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.js)                                     |
 |       수학       |      점프와 순간 이동       |            Level 2             |        p         |                          [문제](https://programmers.co.kr/learn/courses/30/lessons/12980) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.js)                           |
+|   정렬, 그리디   |          숫자 게임          |            Level 3             |        p         |                                         [문제](https://programmers.co.kr/learn/courses/30/lessons/12987) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Programmers/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.js)                                          |
 
 </details>
 <details>
