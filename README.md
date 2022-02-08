@@ -73,6 +73,7 @@
 |        9012 - 스택         |           괄호           |   ★★☆☆☆    |    P     |          [문제](https://www.acmicpc.net/problem/9012) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9012.py)           |
 |         9095 - DP          |      1,2,3, 더하기       |   ★★☆☆☆    |    P     |          [문제](https://www.acmicpc.net/problem/9095) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9095.py)           |
 |           10773            |           제로           | SILVER - 4 |    P     |         [문제](https://www.acmicpc.net/problem/10773) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/10773.js)          |
+|            1181            |        단어 정렬         | SILVER - 5 |    P     |          [문제](https://www.acmicpc.net/problem/1181) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1181.js)           |
 
 </details>
 <details>
