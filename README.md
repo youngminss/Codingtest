@@ -75,6 +75,9 @@
 |           10773            |           제로           | SILVER - 4 |    P     |         [문제](https://www.acmicpc.net/problem/10773) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/10773.js)          |
 |            1181            |        단어 정렬         | SILVER - 5 |    P     |          [문제](https://www.acmicpc.net/problem/1181) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1181.js)           |
 |            1874            |        스택 수열         | SILVER - 3 |    P     |          [문제](https://www.acmicpc.net/problem/1874) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1874.js)           |
+|            2108            |          통계학          | SILVER - 5 |    P     |          [문제](https://www.acmicpc.net/problem/2018) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2108.js)           |
+
+| 4949 | 균형잡힌 세상 | SILVER - 4 | P | [문제](https://www.acmicpc.net/problem/4949) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/4949.js) |
 
 </details>
 <details>
