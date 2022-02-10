@@ -78,6 +78,7 @@
 |            2108            |          통계학          | SILVER - 5 |    P     |          [문제](https://www.acmicpc.net/problem/2018) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2108.js)           |
 
 | 4949 | 균형잡힌 세상 | SILVER - 4 | P | [문제](https://www.acmicpc.net/problem/4949) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/4949.js) |
+| 18111 | 마인크래프트 | SILVER - 2 | P | [문제](https://www.acmicpc.net/problem/18111) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/18111.js) |
 
 </details>
 <details>
