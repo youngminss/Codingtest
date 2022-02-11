@@ -76,9 +76,12 @@
 |            1181            |        단어 정렬         | SILVER - 5 |    P     |          [문제](https://www.acmicpc.net/problem/1181) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1181.js)           |
 |            1874            |        스택 수열         | SILVER - 3 |    P     |          [문제](https://www.acmicpc.net/problem/1874) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1874.js)           |
 |            2108            |          통계학          | SILVER - 5 |    P     |          [문제](https://www.acmicpc.net/problem/2018) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2108.js)           |
-
-| 4949 | 균형잡힌 세상 | SILVER - 4 | P | [문제](https://www.acmicpc.net/problem/4949) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/4949.js) |
-| 18111 | 마인크래프트 | SILVER - 2 | P | [문제](https://www.acmicpc.net/problem/18111) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/18111.js) |
+|            4949            |      균형잡힌 세상       | SILVER - 4 |    P     |          [문제](https://www.acmicpc.net/problem/4949) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/4949.js)           |
+|           18111            |       마인크래프트       | SILVER - 2 |    P     |         [문제](https://www.acmicpc.net/problem/18111) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/18111.js)          |
+|           11866            |     요세푸스 문제 0      | SILVER - 4 |    P     |         [문제](https://www.acmicpc.net/problem/11866) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11866.js)          |
+|           15829            |         Hashing          | BRONZE - 2 |    P     |         [문제](https://www.acmicpc.net/problem/15829) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/15829.js)          |
+|            2839            |        설탕 배달         | BRONZE - 1 |    P     |          [문제](https://www.acmicpc.net/problem/2839) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2839.js)           |
+|            1018            |    체스판 다시 칠하기    | SLIVER - 5 |    P     |          [문제](https://www.acmicpc.net/problem/1018) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1018.js)           |
 
 </details>
 <details>
