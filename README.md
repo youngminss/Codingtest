@@ -82,6 +82,10 @@
 |           15829            |         Hashing          | BRONZE - 2 |    P     |         [문제](https://www.acmicpc.net/problem/15829) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/15829.js)          |
 |            2839            |        설탕 배달         | BRONZE - 1 |    P     |          [문제](https://www.acmicpc.net/problem/2839) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2839.js)           |
 |            1018            |    체스판 다시 칠하기    | SLIVER - 5 |    P     |          [문제](https://www.acmicpc.net/problem/1018) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1018.js)           |
+|            1259            |        팰린드롬수        | BRONZE - 1 |    P     |          [문제](https://www.acmicpc.net/problem/1259) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1259.js)           |
+|           10250            |         ACM 호텔         | BRONZE - 3 |    P     |         [문제](https://www.acmicpc.net/problem/10250) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/10250.js)          |
+|           11050            |       이항 계수 1        | BRONZE - 1 |    P     |         [문제](https://www.acmicpc.net/problem/11050) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11050.js)          |
+|            1920            |         수 찾기          | SLIVER - 4 |    P     |          [문제](https://www.acmicpc.net/problem/1920) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1920.js)           |
 
 </details>
 <details>
