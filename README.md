@@ -86,6 +86,8 @@
 |           10250            |         ACM 호텔         | BRONZE - 3 |    P     |         [문제](https://www.acmicpc.net/problem/10250) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/10250.js)          |
 |           11050            |       이항 계수 1        | BRONZE - 1 |    P     |         [문제](https://www.acmicpc.net/problem/11050) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11050.js)          |
 |            1920            |         수 찾기          | SLIVER - 4 |    P     |          [문제](https://www.acmicpc.net/problem/1920) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1920.js)           |
+|            1003            |      피보나치 함수       | SLIVER - 3 |    P     |          [문제](https://www.acmicpc.net/problem/1003) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1003.js)           |
+|            1074            |            Z             | SLIVER - 1 |    P     |          [문제](https://www.acmicpc.net/problem/1074) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1074.js)           |
 
 </details>
 <details>
