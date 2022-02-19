@@ -95,6 +95,7 @@
 |            2630            |        색종이 만들기        | SLIVER - 3 |    P     |          [문제](https://www.acmicpc.net/problem/2630) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2630.js)           |
 |           11399            |             ATM             | SLIVER - 3 |    P     |         [문제](https://www.acmicpc.net/problem/11399) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11399.js)          |
 |           11726            |        2 \* n 타일링        | SLIVER - 3 |    P     |         [문제](https://www.acmicpc.net/problem/11726) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11726.js)          |
+|           11724            |      연결 요소의 개수       | SLIVER - 2 |    P     |         [문제](https://www.acmicpc.net/problem/11724) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11724.js)          |
 
 </details>
 <details>
