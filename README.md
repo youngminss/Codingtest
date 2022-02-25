@@ -99,6 +99,7 @@
 |            1931            |         회의실 배정         | SLIVER - 2 |    P     |          [문제](https://www.acmicpc.net/problem/1931) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1931.js)           |
 |           18870            |          좌표 압축          | SLIVER - 2 |    P     |         [문제](https://www.acmicpc.net/problem/18870) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/18870.js)          |
 |            1697            |          숨바꼭질           | SLIVER - 1 |    P     |          [문제](https://www.acmicpc.net/problem/1697) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1697.js)           |
+|            1676            |      팩토리얼 0의 갯수      | SLIVER - 4 |    P     |          [문제](https://www.acmicpc.net/problem/1676) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/1676.js)           |
 
 </details>
 <details>
