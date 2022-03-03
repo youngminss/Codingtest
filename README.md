@@ -106,6 +106,7 @@
 |            2178            |          미로탐색           | SLIVER - 1 |    P     |          [문제](https://www.acmicpc.net/problem/2178) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/2178.js)           |
 |           11403            |          경로찾기           | SLIVER - 1 |    P     |         [문제](https://www.acmicpc.net/problem/11403) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11403.js)          |
 |            7569            |           토마토            |  GOLD - 5  |    P     |          [문제](https://www.acmicpc.net/problem/7569) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/7569.js)           |
+|           10026            |          적록색약           |  GOLD - 5  |    P     |         [문제](https://www.acmicpc.net/problem/10026) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/10026.js)          |
 
 </details>
 <details>
