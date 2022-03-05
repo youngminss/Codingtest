@@ -109,6 +109,7 @@
 |           10026            |          적록색약           |  GOLD - 5  |    P     |         [문제](https://www.acmicpc.net/problem/10026) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/10026.js)          |
 |           11404            |          플로이드           |  GOLD - 4  |    P     |         [문제](https://www.acmicpc.net/problem/11404) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/11404.js)          |
 |            9375            |        패션왕 신해빈        | SLIVER - 3 |    P     |          [문제](https://www.acmicpc.net/problem/9375) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/9375.js)           |
+|            5430            |             AC              | SLIVER - 3 |    P     |          [문제](https://www.acmicpc.net/problem/5430) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/5430.js)           |
 
 </details>
 <details>
