@@ -113,6 +113,7 @@
 |           10866            |             덱              | SLIVER - 4 |    P     |         [문제](https://www.acmicpc.net/problem/10866) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/10866.js)          |
 |           17219            |        비밀번호 찾기        | SLIVER - 4 |    P     |         [문제](https://www.acmicpc.net/problem/17219) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/17219.js)          |
 |           20164            |       홀수 홀릭 호석        |  GOLD - 5  |    P     |         [문제](https://www.acmicpc.net/problem/20164) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/20164.js)          |
+|           14500            |         테트리미노          |  GOLD - 5  |    P     |         [문제](https://www.acmicpc.net/problem/14500) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/14500.js)          |
 
 </details>
 <details>
