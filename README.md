@@ -115,6 +115,7 @@
 |           20164            |       홀수 홀릭 호석        |  GOLD - 5  |    P     |         [문제](https://www.acmicpc.net/problem/20164) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/20164.js)          |
 |           14500            |         테트리미노          |  GOLD - 5  |    P     |         [문제](https://www.acmicpc.net/problem/14500) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/14500.js)          |
 |           12865            |         평범한 배낭         |  GOLD - 5  |    P     |         [문제](https://www.acmicpc.net/problem/12865) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/12865.js)          |
+|           16953            |           A -> B            |  GOLD - 5  |    P     |         [문제](https://www.acmicpc.net/problem/16953) / [소스코드](https://github.com/youngminss/codingtest/blob/master/Baekjoon/16953.js)          |
 
 </details>
 <details>
