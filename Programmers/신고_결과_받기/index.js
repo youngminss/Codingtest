@@ -50,13 +50,3 @@ function solution(id_list, report, k) {
 // 입력부
 // solution(["muzi", "frodo", "apeach", "neo"], ["muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi"], 2); // [2, 1, 1, 0]
 // solution(["con", "ryan"], ["ryan con", "ryan con", "ryan con", "ryan con"], 3); // [0, 0]
-
-/**
- * 문제: 프로그래머스 - 신고 결과 받기
- * 테마: 구현
- * 출처: https://school.programmers.co.kr/learn/courses/30/lessons/92334
- *
- * [NOTE]
- * - Map 자료형을 사용했는데, Set 자료형으로 초기에 id_list 중복 처리를 해서 성능을 향상 시키는 방법이 있다.
- *   -> 참고: https://school.programmers.co.kr/learn/courses/30/lessons/92334/solution_groups?language=javascript
- */
