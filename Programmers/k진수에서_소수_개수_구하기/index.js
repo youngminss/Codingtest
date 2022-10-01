@@ -20,4 +20,3 @@ const isPrime = (n) => {
 solution(437674, 3); // 3
 solution(110011, 10); // 2
 solution(3, 3); // 0
-solution(19, 2); // 1
