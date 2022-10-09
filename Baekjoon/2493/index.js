@@ -34,3 +34,9 @@ const main = () => {
 };
 
 main();
+
+/**
+ * 문제: 백준 - 탑(2493)
+ * 테마: 자료구조(스택)
+ * 출처: https://www.acmicpc.net/problem/2493
+ */
