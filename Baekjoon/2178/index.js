@@ -13,15 +13,7 @@ const solution = (n, m, graph) => {
       for (let i = 0; i < 4; i++) {
         const [nx, ny] = [x + dx[i], y + dy[i]];
 
-        if (
-          0 <= nx &&
-          nx < n &&
-          0 <= ny &&
-          ny < m &&
-          graph[nx][ny] &&
-          graph[nx][ny] <= graph[x][y] &&
-          !visited[nx][ny]
-        ) {
+        if (0 <= nx && nx < n && 0 <= ny && ny < m && graph[nx][ny] && !visited[nx][ny]) {
           graph[nx][ny] = graph[x][y] + 1;
           queue.push([nx, ny]);
           visited[nx][ny] = true;
