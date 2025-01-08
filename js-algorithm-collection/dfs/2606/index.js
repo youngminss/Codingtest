@@ -21,12 +21,12 @@ const main = () => {
   const m = Number(input.shift());
 
   let visited = new Array(n + 1).fill(false);
-  let graph = new Array(n + 1).fill([]);
+  let graph = new Array(n + 1).fill(null).map((_) => []);
 
   for (let i = 0; i < m; i++) {
     const [start, end] = input[i].split(" ").map(Number);
-    graph[start] = [...graph[start], end];
-    graph[end] = [...graph[end], start];
+    graph[start].push(end);
+    graph[end].push(start);
   }
 
   const result = solution(graph, 1, visited);
@@ -45,4 +45,9 @@ main();
  * + recursive function 으로 구현
  * + graph 나 visited 배열의 길이를 +1 씩 한것은 노드 넘버링이 1 ~ n 이기때문에 직관적인 코드를 위해서
  *   - 조금의 메모리 낭비 vs 직관적인 코드 작성 중에 택
+ */
+
+/**
+ * Array.fill(object) = reference 를 복사 = 특정 요소를 수정하면, 모든 요소가 동일하게 업데이트 된다. -> map 함수를 통해 새로운 객체 요소들로 구성된 배열로 생성하면 해결 가능)
+ * Arrry.fill(primitive) = value 를 복사
  */
