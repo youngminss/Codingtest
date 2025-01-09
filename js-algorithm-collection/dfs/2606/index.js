@@ -5,7 +5,6 @@ const solution = (graph, v, visited) => {
     const nextV = graph[v][i];
 
     if (visited[nextV] === false) {
-      visited[nextV] = true;
       solution(graph, nextV, visited);
     }
   }
