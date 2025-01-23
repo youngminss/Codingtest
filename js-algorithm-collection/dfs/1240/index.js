@@ -26,7 +26,7 @@ const main = () => {
   }
 
   let result = [];
-  for (let i = 0; i < 1; i++) {
+  for (let i = 0; i < m; i++) {
     const [startV, endV] = input.shift().split(" ").map(Number);
     const visited = new Array(n + 1).fill(false);
     const distance = new Array(n + 1).fill(-1);
@@ -49,4 +49,5 @@ main();
 /**
  * "트리" 구조의 그래프라는 점, 간선의 갯수는 "정점(v)의 수 - 1"
  * 트리에서는 임의의 두 노드 간의 경로가 "오직 1 개" -> 따라서 BFS 가 아닌 DFS 로도 간단히 최단 거리를 계산할 수 있다.
+ * distance, visited 배열을 넘겨서 DFS 진행 후, 최종 목적지에 대한 distance 추출
  */
